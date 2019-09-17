@@ -1,0 +1,4151 @@
+{
+  "workspace": "menetelmätieteet",
+  "courses": [
+    {
+      "code": "MAT11001",
+      "name": "Johdatus yliopistomatematiikkaan",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "induktio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "joukkoja koskevat todistukset",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "vastaesimerkki",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "\"jos..., niin...\" todistus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "\"jos ja vain jos\" todistus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "epäsuora päättely",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "loogiset konnektiivit",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kvanttorit",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "merkinnät",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "osajoukon käsite",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "yhdiste",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "leikkaus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "perusjoukko",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "komplementti",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "potenssijoukko",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "tulojoukko",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kuvauksen käsite",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kuva",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "alkukuva",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "injektio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "surjektio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "käänteiskuvaus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "relaatio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "refleksiivisyys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "symmetrisyys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "transitiivisuus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ekvivalenssirelaatio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ekvivalenssiluokka",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kompleksiluvuilla laskeminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "napaesitys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "eksponenttiesitys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "toisen asteen yhtälö",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "binomiyhtälö",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "geometrinen sarja",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "binomikertoimet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "logaritmit",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "modulaarinen aritmetiikka",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "verkot",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT11002",
+      "name": "Lineaarialgebra ja matriisilaskenta 1",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "vektori",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "taso",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "pistetulo",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "lineaarikombinaatio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "vektorien virittämä aliavaruus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "virittäminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "vapaus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "normi eli pituus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kohtisuoruus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "projektio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "suora",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kanta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "lineaarinen yhtälöryhmä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "koordinaatit",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "dimensio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ekvivalentti yhtälöryhmä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "porrasmatriisi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kerroinmatriisi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "matriisi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "redusoitu porrasmatriisi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "vapaa muuttuja",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "determinantti",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "matriisitulo",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ominaisarvo",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ominaisvektori",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "käänteismatriisi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "kääntyvä matriisi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT11003",
+      "name": "Raja-arvot",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT11004",
+      "name": "Differentiaalilaskenta",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT11005",
+      "name": "Integraalilaskenta",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21002",
+      "name": "Sarjat",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21003",
+      "name": "Vektorianalyysi 1",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21020",
+      "name": "Vektorianalyysi 2",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21012",
+      "name": "Differentiaaliyhtälöt 1",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21013",
+      "name": "Differentiaaliyhtälöt 2",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21005",
+      "name": "Topologia 1a",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21006",
+      "name": "Topologia 1b",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21001",
+      "name": "Lineaarialgebra ja matriisilaskenta 2",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21010",
+      "name": "Algebralliset rakenteet 1",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "laskutoimitukset",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ryhmät",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "isomorfismi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "virittäminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "sivuluokat",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21011",
+      "name": "Algebralliset rakenteet 2",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "renkaat",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "polynomit ",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "tekijärenkaat",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "homomorfismit",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21014",
+      "name": "Johdatus logiikkaan 1",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "propositiolauseet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "rekursiiviset määritelmät",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "induktio rakenteen suhteen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "negaatio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "konjunktio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "disjunktio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "implikaatio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ekvivalenssi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "lauseen totuusarvo",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "totuustaulu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "disjunktiivinen normaalimuoto",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "konjunktiivinen normaalimuoto",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "täydelliset konnektiivijoukot",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "päättelyjärjestelmä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "resoluutio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "luonnollinen päättely",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "konjunktion säännöt",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "disjunktion säännöt",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "implikaation säännöt",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ekvivalenssin säännöt",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "negaation säännöt",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "tilapäisten oletusten hylkääminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "luonnollisen päättelyn formaali määritelmä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "luonnollisen päättelyn eheys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "eheyslauseen käyttö",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "luonnollisen päättelyn täydellisyys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "semanttiset puut",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21015",
+      "name": "Johdatus logiikkaan 2",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "malli",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "aakkostot ",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "L-malli",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "L-kaava",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "L-atomikaava",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "tulkintafunktio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT12003",
+      "name": "Todennäköisyyslaskenta 1",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT22001",
+      "name": "Todennäköisyyslaskenta 2a",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT22002",
+      "name": "Todennäköisyyslaskenta 2b",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21007",
+      "name": "Mitta ja integraali",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT21009",
+      "name": "Kandidaatintutkielma",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT12001",
+      "name": "Tilastotiede ja R tutuksi I",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT12002",
+      "name": "Tilastotiede ja R tutuksi II",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT12004",
+      "name": "Tilastollinen päättely I",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT12005",
+      "name": "Data-analyysin projekti",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT22003",
+      "name": "Tilastollinen päättely II",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT22004",
+      "name": "Lineaariset mallit I",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT22005",
+      "name": "Bayesian inference",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAT22006",
+      "name": "Yleistetyt lineaariset mallit I",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT10001",
+      "name": "Johdatus tietojenkäsittelytieteeseen",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Yleiskuva tietojenkäsittelytieteestä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Etiikka ja immateriaalioikeudet",
+          "description": "Perustietoa alan etiikasta ja immateriaalioikeudesta",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tieteellisen kirjallisuuden hakeminen englanniksi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tieteellisen kirjallisuuden lukeminen englanniksi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Alan asiatekstin kirjoittaminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Alan aiheista puhuminen ja esittäminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT10002",
+      "name": "Ohjelmoinnin perusteet",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Syötteen lukeminen",
+          "description": "Osaat kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Muuttuja",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ehtolause",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Toistolause",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Loogiset operaatiot",
+          "description": "Tunnet loogiset operaatiot ja, tai ja ei ja osaat käyttää niitä ehto- ja toistolauseissa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Metodi ja ohjelman kutsupino",
+          "description": "Tunnet käsitteet metodi, metodin parametri, metodin palautusarvo ja ohjelman kutsupino.  Osaat luoda metodeja ja ymmärrät miten ohjelman suoritus etenee kun metodia kutsutaan ja toisaalta kun metodikutsusta palataan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Koodin kommentointi, ja muuttujien/metodien nimentä",
+          "description": "Tiedät lähdekoodin kommentointitapoja ja ymmärrät miten muuttujien ja metodien nimentä vaikuttaa ohjelman ymmärrettävyyteen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lista- ja taulukkorakenne",
+          "description": "Tunnet lista- ja taulukkorakenteen ja osaat käyttää niitä osana ohjelmia.  Osaat käydä listan ja taulukon läpi while-toistolausetta ja indeksimuuttujaa käyttäen sekä for-each -toistolausetta käyttäen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Merkkijono ja siihen liittyvät metodit",
+          "description": "Tunnet merkkijonoon liittyviä metodeja ja osaat pilkkoa merkkijonon pienempiin osiin.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedosto ja tiedostojärjestelmä",
+          "description": "Tunnet käsitteet tiedosto ja tiedostojärjestelmä ja osaat lukea merkkijonomuotoista tietoa tiedostosta",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Olio-ohjelmoinnin määritelmä",
+          "description": "Tiedät mitä olio-ohjelmointi tarkoittaa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Olio ja luokka",
+          "description": "Tunnet olio-ohjelmointiin liittyvät keskeiset käsitteet kuten luokka ja olio.  Osaat luoda luokkia ja olioita sekä käyttää niitä osana toteuttamiasi ohjelmia.  Osaat määritellä luokkaan viittaustyyppisiä oliomuuttujia, käyttää olioita metodin paluuarvona, sekä käyttää listoja oliomuuttujina.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Alkeis- ja viittaustyyppiset muuttujat",
+          "description": "Tiedät mitä alkeis- ja viittaustyyppiset muuttujat ovat ja ymmärrät miten niiden toiminta eroaa toisistaan (muuttujan arvon asetus, metodin parametrina käyttö)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Method overloading",
+          "description": "Osaat luoda luokkaan useita konstruktoreja sekä useita samannimisiä metodeja",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Olioiden samankaltaisuus",
+          "description": "Osaat vertailla olioiden samankaltaisuutta sekä määritellä samankaltaisuuden vertailuun käytettävän metodin",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Staattinen ja ei-staattinen metodi",
+          "description": "Ymmärrät staattisten ja ei-staattisten metodien erot",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Hajautustaulun toiminta",
+          "description": "Osaat käyttää olioita hajautustaulun arvona ja tiedät miten oliot toimivat hajautustaulun avaimena",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelman pilkkominen vastuualueisiin",
+          "description": "Osaat käyttää olioita sekä tiedon esittämiseen että ohjelman jakamiseen useampaan vastuualueeseen (tekstikäyttöliittymä, sovelluslogiikka)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Proseduraalinen- vs olio-ohjelmointi",
+          "description": "Osaat kertoa proseduraalisen ohjelmoinnin ja olio-ohjelmoinnin eroista ja toteuttaa ohjelmia kumpaakin ohjelmointiparadigmaa noudattaen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Algoritmin määritelmä",
+          "description": "Tiedät mitä käsite algoritmi tarkoittaa ja osaat kuvailla muutamien järjestämis- ja hakualgoritmien toimintaa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Yksikkötestien kirjoittaminen",
+          "description": "Osaat kirjoittaa yksikkötestejä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Testivetoinen ohjelmistokehitys",
+          "description": "Tiedät testivetoisen ohjelmistokehityksen perusaskeleet",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kokonaisluku",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Totuusarvo",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Liukuluku",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT10003",
+      "name": "Ohjelmoinnin jatkokurssi",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Perintä ja rajapinta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Periytyvät luokat ja rajapinnan toteuttavat luokat",
+          "description": "Osaat luoda luokkia, jotka periytyvät toisesta luokasta ja osaat luoda luokkia, jotka toteuttavat yhden tai useamman rajapinnan",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Abstraktien luokkien toiminta",
+          "description": "Tiedät miten abstraktit luokat toimivat.  Ymmärrät että olio voidaan esittää kaikkien sen todellisten tyyppien avulla",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokokoelmat virtana",
+          "description": "Osaat käsitellä tietokokoelmia virran avulla",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Virran arvojen manipulointi",
+          "description": "Osaat rajata virran arvoja (filter) sekä muuntaa virran arvojen tyyppiä (map)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lambda lauseke",
+          "description": "Tunnet käsitteen lambda-lauseke",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Olioiden järjestäminen (Java: Comparable)",
+          "description": "Osaat järjestää olioita Javan valmista Comparable-rajapintaa hyödyntäen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Säännöllinen lauseke",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lueteltu tyyppi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Iteraattori",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Luokkakaavio",
+          "description": "Tunnet luokkakaaviot ja osaat tulkita ja rakentaa ohjelmia luokkakaavioiden perusteella",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Javan pakkaukset ja import-lausekkeet",
+          "description": "Osaat käyttää Javan pakkauksia ja tiedät mistä import-lauseen osat muodostuvat",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Java poikkeukset ja niiden heittäminen",
+          "description": "Tunnet Javan erilaisia poikkeuksia ja osaat käsitellä sekä heittää niitä eteenpäin",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedon kirjoitus tiedostoon ohjelmallisesti",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Geneeriset tyyppiparametrit",
+          "description": "Tiedät mitä geneeriset tyyppiparametrit ovat ja osaat luoda luokkia jotka käyttävät niitä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ArrayList ja HashMap sisäinen toteutus",
+          "description": "Tiedät pääpiirteittäin ArrayListin ja HashMapin sisäisen toteutuksen ja osaat luoda niistä yksinkertaistetut omat versiot",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Satunnaislukujen generointi",
+          "description": "Tiedät miten satunnaislukuja luodaan ja osaat käyttää Javan valmiita välineitä satunnaislukujen luomiseen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Moniulotteisen tiedon esittäminen",
+          "description": "Tunnet menetelmiä moniulotteisen tiedon esittämiseen ja osaat luoda sekä käsitellä moniulotteisia taulukoita",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Graafisen käyttöliittymän ohjelmointi",
+          "description": "Tutustut graafisten käyttöliittymien ohjelmointiin.  Tunnet muutamia käyttöliittymäkomponentteja, käyttöliittymäkomponenttien asettelun mekanismeja, sekä osaat käsitellä käyttöliittymän tapahtumia.  Osaat tehdä käyttöliittymiä, jotka sisältävät useamman näkymän.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedon visualisointi",
+          "description": "Tunnet menetelmiä tiedon visualisointiin.  Osaat käyttää Javan valmiiksi tarjoamia kaavioita (viivakaavio, pylväskaavio).  Osaat käyttää Javan tarjoamia välineitä yksinkertaisten piirrosten luomiseen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Simulaatioiden luominen",
+          "description": "Tunnet menetelmiä simulaatioiden luomiseen ja kertaat kaksiulotteisten taulukkojen käyttöä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ulkoisten kirjastojen käyttö",
+          "description": "Tiedät, että muiden kirjoittamia kirjastoja voi käyttää osana omia ohjelmia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Yksikkötestaus ja testikattavuus",
+          "description": "Kertaat käsitettä yksikkötestaus ja tunnet pääpiirteittäin käsitteen testikattavuus",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT10004",
+      "name": "Tietokantojen perusteet",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Tieto",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokannanhallintajärjestelmä",
+          "description": "Tiedät joitakin olemassaolevia tietokannanhallintajärjestelmiä ja olet kokeillut niiden käyttämistä.  Tiedät tietokannanhallintajärjestelmältä vaadittuja ominaisuuksia, joita tarvitaan tietokantatransaktioiden toimintaan.  Tunnet pinnallisesti tietokannanhallintajärjestelmien historiaa ja tunnet muitakin kuin relaatiotietokannanhallintajärjestelmiä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Relaatiotietokanta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokantataulu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Pääavain ja viiteavain",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SQL toimintaperiaate",
+          "description": "Tunnet tietokantakyselyiden muodostamiseen käytettävän SQL-kielen toimintaperiaatteet",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedon kyseleminen tietokantaulusta (SQL perusteet)",
+          "description": "Osaat hakea SQL-kielen avulla tietoa yhdestä tai useammasta tietokantataulusta ja osaat rajata ja järjestää kyselyiden tuloksia",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Taulujen luominen ja poisto",
+          "description": "Osaat luoda ja poistaa tietokantatauluja",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedon lisääminen tietokantaan ja sen muokkaus",
+          "description": "Osaat lisätä tietokantaan tietoa ja osaat muokata tietokannassa olevaa tietoa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Yhteenvetokyselyt",
+          "description": "Osaat tehdä yhteenvetokyselyitä ja rajata yhteenvetokyselyiden tuloksia",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedon ja tietokannan kuvaaminen",
+          "description": "Tunnet menetelmiä tiedon ja tietokannan kuvaamiseen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käsiteanalyysi",
+          "description": "Tunnet käsiteanalyysin askeleet ja osaat luoda ongelma-alueen kuvauksesta käsitekaavion",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokantakaavio",
+          "description": "Osaat luoda käsitekaaviosta tietokantakaavion",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokannan normalisointi",
+          "description": "Tiedät mitä tietokannan normalisointi tarkoittaa osaat muuntaa annetun tietokantataulun kolmanteen normaalimuotoon",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Eheys ja tietokantatransaktio",
+          "description": "Tunnet käsitteen tietokannan eheys ja tietokantatransaktio, ja tiedät milloin tietokantatransaktioita käytetään",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Alikyselyt SQL-kielellä",
+          "description": "Osaat tehdä alikyselyitä SQL-kielellä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kyselyiden tehokkuuden tarkastelu",
+          "description": "Tunnet menetelmiä tietokantakyselyiden tehokkuuden tarkasteluun",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokantataulujen indeksit",
+          "description": "Tiedät mitä indeksit ovat ja tiedät milloin tietokantatauluihin kannattaa määritellä indeksejä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Denormalisointi",
+          "description": "Tiedät mitä tietokannan denormalisointi tarkoittaa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sovellus joka käyttää tietokantaa",
+          "description": "Osaat luoda tietokantaa käyttävän Java-kielisen sovelluksen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Olio-ohjelmoinnin luokkien ja tietokantataulujen yhteys",
+          "description": "Tunnistat olio-ohjelmoinnista tuttujen luokkien ja tietokantataulujen välisen yhteyden",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Data Access Object (DAO) -suunnittelumalli",
+          "description": "Tunnet Data Access Object (DAO) -suunnittelumallin ja ymmärrät sen toiminnan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DAO-suunnittelumallin haittapuolet",
+          "description": "Tiedät DAO-suunnittelumallin mahdollisia haittapuolia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "N+1 ongelma",
+          "description": "Osaat kuvata N+1 -kyselyn ongelman",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SQL-injektio",
+          "description": "Tunnet käsitteen SQL-injektio ja tunnet menetelmiä SQL-injektioiden estämiseen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "ACID",
+          "description": "Atomicity, Consistency, Isolation, and Durability",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "BASE",
+          "description": "Basically Available, Soft state, Eventual consistency",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietokanta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT10005",
+      "name": "Tietokoneen toiminta",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Laitteistokomponenttien nopeuserot",
+          "description": "Osaa selittää laitteistokomponenttien väliset suuret nopeuserot ja niiden vaikutukset järjestelmään.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessorin toiminta",
+          "description": "Osaa selittää prosessorin toiminnan (suoritussykli) konekäskyjen suorittajana.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Väylä- ja muistihierarkia",
+          "description": "Osaa selittää väylä- ja muistihierarkian perusajatukset.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Välimuisti ja virtuaalimuistin toiminta",
+          "description": "Osaa selittää välimuistin ja virtuaalimuistin toiminnan perusteet.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessorin suoritustilat",
+          "description": "Osaa selittää prosessorin erilaiset suoritustilat ja erityisesti etuoikeutetun suoritustilan tarkoituksen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Processorin suoritustilan vaihtoon johtavat tapaukset",
+          "description": "Osaa selittää, milloin ja miten prosessorin suoritustila vaihtuu.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Keskeytykset",
+          "description": "Osaa selittää keskeytysten merkityksen ja toteutuksen konekäskyjen suorituksen tasolla.  Osaa selittää keskeytysjärjestelmän toiminnan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Globaalit muuttujat, vakiot, tietueet ja yksinkertaiset taulukot",
+          "description": "Osaa toteuttaa globaalien muuttujat, vakiot, tietueet ja yksinkertaiset taulukot ja selittää niiden tilanvarauksien toteutuksen käännöksen, latauksen tai suorituksen aikana.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Valinta- ja toistorakenteet, sekä aliohjelmien kutsut",
+          "description": "Osaa ohjelmoida valinta- ja toistorakenteet sekä toteuttaa aliohjelmien kutsut.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Liukulukujen esitysmuodot",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Merkkien ja merkkijonojen tallennuksen periaatteet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kokonaislukujen esitysmuodot",
+          "description": "Osaa muuttaa kokonaislukujen esitysmuodot 2-, 8-, 16- ja 10-järjestelmien välillä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietueiden, olioiden ja moniulotteisten taulukoiden tilanvaraukset ja niihin viittaamisen",
+          "description": "Osaa toteuttaa tietueiden, olioiden ja moniulotteisten taulukoiden (eri tavoin talletettuna) tilanvaraukset ja niihin viittaamisen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Globaalien ja paikallisten tietorakenteiden erot tilanvarauksessa",
+          "description": "Osaa selittää globaalien ja paikallisten tietorakenteiden erot tilanvarauksessa ja niihin viittaamisessa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Aktivointitietue ja aktivointitietuepino",
+          "description": "Osaa käyttää aktivointitietueita ja aktivointitietuepinoa (rekursiivisten) aliohjelmien toteutuksessa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Liikkuvien kuvien ja äänen tallennus laitteistotasolla",
+          "description": "Osaa selittää karkealla tasolla, kuinka (liikkuvat) kuvat ja äänet esitetään laitteistossa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Liukulukujen tarkkuus laskennassa",
+          "description": "Osaa selittää ja ottaa huomioon liukulukujen tarkkuuden muutokset laskennan aikana.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Muuttumattomuuden suojauksen perusmenetelmät",
+          "description": "Osaa käyttää tiedon muuttumattomuuden suojauksen perusmenetelmiä (pariteettibitti, Hamming-koodi).",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessin määritelmä",
+          "description": "Osaa selittää prosessin käsitteen ja sen esitysmuodon käyttöjärjestelmässä sekä prosessin erilaiset tilat ja niiden väliset tilasiirtymät.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessin tilasiirtymään johtavat tapaukset",
+          "description": "Osaa selittää, milloin ja miten suorituksessa oleva prosessi vaihtuu.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmän perustoiminnot",
+          "description": "Osaa luetella käyttöjärjestelmän perustoiminnot (prosessien, muistin, tiedostojen, laitteiden ja verkon hallinta).  Osaa selittää käyttöjärjestelmän tavoitteet ja perustoiminnot sekä käyttäjän näkökulmasta että käyttöjärjestelmän ylläpitäjän näkökulmasta.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käännös, linkitys ja lataus",
+          "description": "Osaa selittää käännöksen, linkityksen ja latauksen perusideat.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmäpalvelujen toteutusmekanismi",
+          "description": "Osaa selittää käyttöjärjestelmäpalvelujen toteutusmekanismin erilaisten (etuoikeutettujen) aliohjelmien tai prosessien avulla.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Staattinen ja dynaaminen linkitys",
+          "description": "Osaa selittää staattisen ja dynaamisen linkityksen edut ja haitat.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmän laitteistorajapinnan toteutus",
+          "description": "Osaa selittää käyttöjärjestelmän laitteistorajapinnan toteutuksen laiteajurien ja keskeytyskäsittelijöiden avulla",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedostopalvelimen perusidea",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedostovälimuistin perusidea",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Levymuistin periaatteet",
+          "description": "Osaa selittää levymuistin rakenteen ja toiminnan sekä laskea levymuistiin talletetun tiedoston saantiajan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "I/O menetelmät",
+          "description": "Osaa luokitella erilaiset I/O-menetelmät.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Java-ohjelmien erilaiset suoritustavat",
+          "description": "Osaa selittää Java-ohjelmien erilaiset suoritustavat ja niiden eroavaisuudet.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Java-virtuaalikone (JVM)",
+          "description": "Osaa selittää Java-virtuaalikoneen (JVM) perusrakenteen ja toiminnan sekä valita tiettyyn sovellukseen sopivan Java-ohjelmien suoritustavan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "JIT-kääntäminen",
+          "description": "Osaa selittää JIT-kääntämisen perusidean.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Konekäsky",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Binäärijärjestelmä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "IEEE Float standard",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20001",
+      "name": "Tietorakenteet ja algoritmit",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Rekursio",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Silmukkainvariantti",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Iso-O-merkintä",
+          "description": "Osaa analysoida algoritmin aika- ja tilavaativuutta O-merkinnän avulla",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Algoritmien aika- ja tilavaativuus",
+          "description": "Iteratiivisten ja rekursiivisten algoritmien aika- ja tilavaativuus.  Osaa analysoida algoritmin aika- ja tilavaativuutta O-merkinnän avulla.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Algoritmin oikeellisuus",
+          "description": "Osaa perustella algoritmin oikeellisuuden esim. silmukkainvarianttia käyttäen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Hakemistorakenne",
+          "description": "Tuntee yksityiskohtaisesti erilaisten hakemistorakenteiden toteutukset.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Järjestämisalgoritmit",
+          "description": "Osaa toteuttaa tärkeimmät järjestämisalgoritmit ja tuntee niiden aikavaativuudet: Lisäysjärjestäminen, Lomitusjärjestäminen, Pikajärjestäminen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Verkkojen peruskäsitteet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Polunetsintä",
+          "description": "DFS, BFS",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Dynaaminen ohjelmointi",
+          "description": "Pisin nouseva alijono, reitti ruudukossa, repunpakkaus, binomikertoimet",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lyhimmät polut",
+          "description": "Bellman–Fordin algoritmi, Dijkstran algoritmi, Floyd–Warshallin algoritmi",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Suunnatut syklittömät verkot",
+          "description": "Topologinen järjestys, dynaaminen ohjelmointi verkoissa, vahvasti yhtenäiset komponentit",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Komponentit ja virittävät puut",
+          "description": "Union-find-rakenne, Kruskalin algoritmi, Primin algoritmi",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Maksimivirtaus",
+          "description": "Ford–Fulkersonin algoritmi, Yhteys minimileikkaukseen, Edmonds–Karpin algoritmi, Erilliset polut, Maksimiparitus, Polkupeitteet",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "NP-ongelmat",
+          "description": "Vaativuusluokat, P ja NP, NP-täydellisyys, SAT-ongelma, Ongelmien palautukset, Optimointiongelmat",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20002",
+      "name": "Ohjelmistotekniikka",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Ohjelmointituotantoprosessi",
+          "description": "Tuntee ohjelmistotuotantoprosessin vaiheet.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vesiputousmalli",
+          "description": "On tietoinen vesiputousmallin luonteesta.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ketterä ohjelmistotuotanto",
+          "description": "On tietoinen ketterän ohjelmistotuotannon luonteesta.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Versionhallinta",
+          "description": "Osaa soveltaa versionhallintaa osana ohjelmistokehitystä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "UML-mallinnustekniikka",
+          "description": "Osaa soveltaa UML-mallinnustekniikkaa vaatimusmäärittelyssä ja ohjelmiston suunnittelussa tarkoituksenmukaisella tavalla",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vaatimusmäärittely",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston suunnittelu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston testaus",
+          "description": "Tuntee ohjelmiston testauksen eri vaiheet.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Automatisoitu testaus",
+          "description": "Osaa soveltaa automatisoitua testausta yksinkertaisissa ohjelmistoprojekteissa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston suunnitteluperiaatteet",
+          "description": "Tuntee tärkeimpiä ohjelmiston suunnitteluperiaatteita ja osaa soveltaa niitä yksinkertaisissa projekteissa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20003",
+      "name": "Käyttöjärjestelmät",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Käyttöjärjestelmän palvelut",
+          "description": "Osaa kuvata käyttöjärjestelmien tarjoamat palvelut ja niiden toiminnan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmän yleiset rakenneratkaisut",
+          "description": "Osaa kuvata käyttöjärjestelmän yleiset rakenneratkaisut rajapintoineen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmän rooli nyky­aikaisessa tietojenkäsittely-ympäristössä",
+          "description": "Osaa selittää käyttöjärjes­telmän aseman nyky­aikaisessa tietojenkäsittely-ympäristössä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmän tehtävä ja rakenne",
+          "description": "Osaa kuvata käyttöjärjestelmän tehtävät ja rakenteen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessien ja säikeiden hallintarakenteet",
+          "description": "Osaa kuvata prosessien ja säikeiden hallintarakenteet ja käyttöjärjestelmän tehtävät niihin liittyen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessien suojausmekanismit",
+          "description": "Osaa kuvata prosessien suojausmekanismit ja erilaisten suoritustilojen (käyttäjä/etuoikeutettu) käyttämisen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Säikeiden suoritustasot",
+          "description": "Osaa kuvata erilaiset tavat suorittaa säikeitä eri tasoilla.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Prosessien vuoronantotekniikat",
+          "description": "Osaa kuvata yleisimmät prosessien vuoronantotekniikat yhden suorittimen järjestelmissä, moniprosessorijärjestelmissä ja tosiaikajärjestelmissä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vuoronanto­menetel­mien soveltuvuus",
+          "description": "Osaa vertailla vuoronanto­menetel­mien soveltuvuutta erilaisilla työ­kuormilla.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tarkoituk­sen­mukaisen suoritus­tapa säikeille",
+          "description": "Osaa valita ja perustella tarkoituk­sen­mukaisen säikeiden suoritus­tavan ohjelmiston toiminnan kannalta.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Yhteisen muistialueen käyttö ja sanomanvälitys (IPC)",
+          "description": "Osaa selittää säikeiden ja prosessien yhteiskäyttöisen muistialueen käytön ja sanomanvälityksen (IPC).",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Rinnakkaisuuden tarve sovelluksessa",
+          "description": "Osaa selittää rinnakkaisuuden tarpeen sovelluksessa.  Osaa selittää esimerk­kien avulla, mitkä tekijät johtavat rinnakkaisiin toimintoihin laitteisto- ja ohjelmistotasolla.  Osaa selittää erilaisten suoritus­skenaarioiden merkityksen rinnak­kaisohjelmien suoritusta tutkittaessa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Virheellinen rinnakkaisuusratkaisu",
+          "description": "Osaa antaa esimerkkejä yleisistä ongelmista, joihin virheellinen rinnakkaisratkaisu voi johtaa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Suorituk­sen etenemisen luonne",
+          "description": "Osaa selittää prosessien suorituk­sen etenemisen epädeter­ministisen luonteen ja sen vaikutukset.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Rinnakkaisuuden toteus",
+          "description": "Osaa selittää rinnakkaisuuden edut, haitat, toteutustasot ja toteutusmenetelmät.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Rinnakkaisuusongelmat",
+          "description": "Osaa selittää rinnakkaisuus­ongelmien ratkaisuille asetettavat vaatimukset (esim. oikeellisuuden määrittely ja oikeellisuus kaikissa skenaarioissa) ja osaa löytää virheelliseen lopputulokseen johtavan skenaarion.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Atomisuus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kriittinen vaihe",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Synkronointi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kommunikointi (Rinnakkaisuus)",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lukkiutuminen",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kriittisen vaiheen ongelma",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vuorolappu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lukijat-kirjoittajat",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tuottaja-kuluttaja",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Asiakas-palvelin",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Puomi­synkronointi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lukkiutumistilanteen synty",
+          "description": "Osaa kuvata lukkiutumistilanteen synnyn ja selittää välttämättömät ja riittävät ehdot lukkiutumiselle.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Keskeytysten esto",
+          "description": "Osaa suunnitella kriittisen vaiheen ongelman ratkaisun laitteistotukea hyödyntäen tilanteeseen parhaiten sopivalla me­­ne­telmällä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Busy-wait",
+          "description": "Osaa suunnitella kriittisen vaiheen ongelman ratkaisun laitteistotukea hyödyntäen tilanteeseen parhaiten sopivalla me­­ne­telmällä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Semafori",
+          "description": "Osaa suunnitella kriittisen vaiheen ongelman ratkaisun laitteistotukea hyödyntäen tilanteeseen parhaiten sopivalla me­­ne­telmällä.  Osaa selittää semaforin rakenteen, ja käyttää sitä oikein ongelmien ratkaisuissa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Monitori",
+          "description": "Osaa suunnitella kriittisen vaiheen ongelman ratkaisun laitteistotukea hyödyntäen tilanteeseen parhaiten sopivalla me­­ne­telmällä.  Osaa selittää monitorin rakenteen, ja käyttää sitä oikein ongelmien ratkaisuissa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Viestit",
+          "description": "Osaa suunnitella kriittisen vaiheen ongelman ratkaisun laitteistotukea hyödyntäen tilanteeseen parhaiten sopivalla me­­ne­telmällä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Samanaikaisuuden perusmallien soveltaminen",
+          "description": "Osaa soveltaa samanaikaisuuden perusmalleja todellisissa ongelmanratkaisuissa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lukkiutumisen havaitseminen, toipuminen ja estäminen",
+          "description": "Osaa selittää, kuinka lukkiutumis­tilanne voidaan havaita DDA-algoritmilla, kuinka havaitusta lukkiutumisesta voidaan toipua ja kuinka lukkiutumistilanne voidaan ennakolta estää joko pankkiirin algoritmilla tai muilla tavoin.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DDA-algoritmi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Virtuaalimuisti (VM)",
+          "description": "Osaa kuvata virtuaalimuistin (VM) toteutuksen yleis­periaatteen ja keskeiset käsitteet (sivutus, sivutaulu, osoitteenmuunnos ja TLB, sivunpuutos).  Osaa algoritmitasolla selittää VM-toteutuksen: sivujen kor­vaus-, nouto- ja poistomene­telmät.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sivutus",
+          "description": "Osaa kuvata virtuaalimuistin (VM) toteutuksen yleis­periaatteen ja keskeiset käsitteet (sivutus, sivutaulu, osoitteenmuunnos ja TLB, sivunpuutos).  Osaa analysoida sivukoon vaikutu­ksia sekä prosessin toimintaan että sivutaulun kokoon.  Osaa perustella tietyn sivukoon valinnan.  Osaa kuvata (monitasoisten) sivu­tus- ja segmentointi­menetel­mien hyödyt ja haitat.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sivutaulu",
+          "description": "Osaa kuvata virtuaalimuistin (VM) toteutuksen yleis­periaatteen ja keskeiset käsitteet (sivutus, sivutaulu, osoitteenmuunnos ja TLB, sivunpuutos)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Osoitteenmuunnos",
+          "description": "Osaa kuvata virtuaalimuistin (VM) toteutuksen yleis­periaatteen ja keskeiset käsitteet (sivutus, sivutaulu, osoitteenmuunnos ja TLB, sivunpuutos).  Osaa algoritmitasolla simuloida osoit­teen­muunnoksen sivuttavaa VM:ää käyttävässä järjestelmässä.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "TLB",
+          "description": "Osaa kuvata virtuaalimuistin (VM) toteutuksen yleis­periaatteen ja keskeiset käsitteet (sivutus, sivutaulu, osoitteenmuunnos ja TLB, sivunpuutos)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sivunpuutos",
+          "description": "Osaa kuvata virtuaalimuistin (VM) toteutuksen yleis­periaatteen ja keskeiset käsitteet (sivutus, sivutaulu, osoitteenmuunnos ja TLB, sivunpuutos).  Osaa algoritmitasolla selittää VM-toteutuksen: sivujen kor­vaus-, nouto- ja poistomene­telmät.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Monitasoinen sivuttava VM",
+          "description": "Osaa kuvata monitasoisen sivuttavan VM:n toiminnan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedosto-järjestelmä",
+          "description": "Osaa kuvata tiedosto-järjestelmän perus­­rakenteen ja sen osien yhteis­toiminnan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Oheis­laitteiden ja käyttöjärjestelmän kommunikointi",
+          "description": "Osaa selittää, miten kommunikointi oheis­laitteiden ja käyttöjärjestelmän välillä toimii.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kovalevyn perusvuoronantoalgoritmit",
+          "description": "Osaa selittää kovalevyn perusvuoronantoalgoritmien toiminnat.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "RAID",
+          "description": "Osaa selittää RAID-toteutusten perusidean.  Osaa selittää erilaisten RAID-toteutus­ten piirteet ja vertailla niiden ominai­suuksia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tiedostojen organisointimalli",
+          "description": "Osaa selittää erilaiset tiedostojen organisointimallit ja milloin niitä on järkevä käyttää.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "B-puut tiedostojen indeksien toteutuksessa",
+          "description": "Osaa selittää B-puiden käytön tiedostojen indeksien toteutuksessa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Käyttöjärjestelmän tietoturvauhat",
+          "description": "Osaa selittää käyttöjärjestelmän tietoturvauhat ja niiden torjuntamenetelmät.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Pääsynvalvontamekanismi",
+          "description": "Osaa selittää käyttöjärjestelmän pääsynvalvontamekanismit.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20006",
+      "name": "Ohjelmistotuotanto",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Ohjelmistoprosessi",
+          "description": "Tuntee ohjelmistoprosessin, erityisesti ketterän prosessin vaiheet.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vaatimusten hallinta ketterässä ohjelmistotuotantoprosessissa",
+          "description": "Tietää miten vaatimuksia hallitaan ketterässä ohjelmistotuotantoprosessissa.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston suunnittelu",
+          "description": "Ymmärtää suunnittelun vastuun ja luonteen ketterässä ohjelmistotuotannossa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston toteutus",
+          "description": "Ymmärtää toteutuksen vastuun ja luonteen ketterässä ohjelmistotuotannossa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston testaus",
+          "description": "Ymmärtää testauksen vastuun ja luonteen ketterässä ohjelmistotuotannossa",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "User story",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tehtävien keston estimointi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Scrum",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "XP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Verifiointi ja validointi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Testauksen tasot",
+          "description": "(yksikkö-, integraatio- ja järjestelmätestaus)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Testauksen kattavuuden mittaus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "TDD",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Hyväksymätestaus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Continuous integration",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Continuous delivery",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Continuous deployment",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Devops",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Blue-green-deployment",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Canary-release",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Feature-toggle",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kerrosarkkitehtuuri",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Mikropalveluarkkitehtuuri",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Walking skeleton",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Arkkitehtuuri ketterissä menetelmissä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Inkrementaalinen arkkitehtuuri",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tekninen velka",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Refaktorointi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Lean-ohjelmistotuotanto",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston laadunhallinta",
+          "description": "Ymmärtää ohjelmiston laadunhallinnan perusteet.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Scrum of Scrums",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SAFe ja LeSS",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ohjelmiston elinkaari",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kanban",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Versionhallinta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Projektin riippuvuuksienhallinta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DRY",
+          "description": "don't repeat yourself",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Koodin luettavuus",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20005",
+      "name": "Laskennan mallit",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Täsmällisen päättelyn esittäminen liittyen algoritmeihin ja laskennallisiin ongelmiin",
+          "description": "Osaa esittää algoritmeihin ja laskennallisiin ongelmiin liittyviä päättelyjä täsmällisesti ja sopivaa matemaattista formalismia käyttäen ja laatia yksinkertaisia todistuksia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Automaatin, yhteydettömän kielen, tms. luominen formaalille kielelle",
+          "description": "Osaa laatia annetulle formaalille kielelle äärellisen automaatin, yhteydettömän kieliopin tms.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Säännöllinen kieli",
+          "description": "Tuntee säännöllisten ja yhteydettömien kielten perusominaisuudet ja osaa käyttää niitä esim. kielen säännöllisyyden tutkimiseen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Yhteydetön kieli",
+          "description": "Tuntee säännöllisten ja yhteydettömien kielten perusominaisuudet ja osaa käyttää niitä esim. kielen säännöllisyyden tutkimiseen.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Churchin-Turingin teesi",
+          "description": "Osaa selittää Churchin-Turingin teesin ja perustella sitä",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ratkeamattomuus",
+          "description": "Ymmärtää ratkeamattomuuden merkityksen, tunnistaa tyypilliset ratkeamattomat ongelmat ja osaa tehdä yksinkertaisia ratkeamattomuustodistuksia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "P",
+          "description": "Tuntee luokkien P ja NP sekä NP-täydellisyyttä koskevat perustulokset ja osaa tehdä niiden perusteella yksinkertaisia päätelmiä; tuntee joitain keskeisiä NP-täydellisiä ongelmia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "NP",
+          "description": "Tuntee luokkien P ja NP sekä NP-täydellisyyttä koskevat perustulokset ja osaa tehdä niiden perusteella yksinkertaisia päätelmiä; tuntee joitain keskeisiä NP-täydellisiä ongelmia.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Deterministinen äärellinen automaatti",
+          "description": "Tuntee säännölliset kielet, deterministiset ja epädeterministiset äärelliset automaatit; niiden sovellukset ja rajoitukset.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Säännöllinen lauseke",
+          "description": "Tuntee säännölliset lausekkeet; niiden sovellukset ja rajoitukset.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Epädeterministinen äärellinen automaatti",
+          "description": "Tuntee säännölliset kielet, deterministiset ja epädeterministiset äärelliset automaatit; niiden sovellukset ja rajoitukset.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Turingin kone",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "NP-täydellisyys",
+          "description": "Laskennallisen ongelman polynominen aikavaativuus",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Todistustekniikka",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Logiikka",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Joukko-oppi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ei-säännöllinen kieli",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Pumppauslemma",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Chomskyn normaalimuoto",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Universaalikone",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20004",
+      "name": "Tietoliikenteen perusteet",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Protokollapinon",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Luotettava kuljetuspalvelu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vuonvalvonta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "TCP:n ruuhkanhallinta",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Asiakas-palvelija malli",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Vertaistoimijamalli",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DNS",
+          "description": "Osaa selittää, mihin tarvitaan nimipalvelua (DNS) ja kuvata sen rakenteen ja toiminnan.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Viestin välitys internetin yli",
+          "description": "Osaa selittää toisaalta miten lähettävän ohjelman viesti saadaan IP-pakettiin ja toisaalta miten IP-paketti välitetään Internetissä viestin vastaanottajalle.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Reititin",
+          "description": "Osaa selittää reitittimen, keskittimen ja kytkimen toiminnan ja erot",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Keskitin",
+          "description": "Osaa selittää reitittimen, keskittimen ja kytkimen toiminnan ja erot",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kytkin",
+          "description": "Osaa selittää reitittimen, keskittimen ja kytkimen toiminnan ja erot",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Paketti",
+          "description": "Osaa kuvata pakettien, kehysten ja muiden viestien sisältöjä ja rakenteita",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kehys",
+          "description": "Osaa kuvata pakettien, kehysten ja muiden viestien sisältöjä ja rakenteita",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tietoliikenteen turvallisuusuhat",
+          "description": "Osaa kuvata tietoliikenteeseen kohdistuvat riskitekijät ja turvallisuusuhat",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Palomuuri",
+          "description": "Osaa selittää kuinka palomuuri toimii.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "TCP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "IP",
+          "description": "IPv4 ja IPv6",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "HTTP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "IMAP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Linkkikerros",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Kuljetuskerros",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sovelluskerros",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Verkkokerros",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Protokolla",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "NAT",
+          "description": "Osoitteenmuunnos",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Nopeus ja viive",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Internet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Palvelin",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Palvelu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "MAC",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Reititys",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Pakettikytkentä",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Modeemi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "WLAN",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Wi-Fi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "TLS ja SSL",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DHCP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Evästeet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Varmenne",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Välityspalvelu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "FTP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sisällönjakeluverkko (CDN)",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SMTP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "VPN",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "UDP",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Ethernet",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Toistin",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Pistoke",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Langaton verkko",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Mobiiliverkko",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20009",
+      "name": "Tietoturvan perusteet",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "CVE",
+          "description": "Common Vulnerabilities and Exposures",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "STRIDE",
+          "description": "Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service ja Elevation of Privilege",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DREAD",
+          "description": "Damage, Reproducibility, Exploitability, Affected Users, Discoverability.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Web sovellus",
+          "description": "Toteutus springbootilla",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SQL-Database",
+          "description": "Tietää, mikä on SQL-tietokanta.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SQL Injection",
+          "description": "Tietää kuinka SQL injektio toimii",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Broken Authentication",
+          "description": "Broken Authentication vulnerabilities allow users to impersonate other users.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Sensitive Data Exposure",
+          "description": "Sensitive Data Exposure is a vulnerability that is related to not properly protecting sensitive user data such as credit card information, social security numbers etc.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Broken Access Control",
+          "description": "Broken accesss control makes it possible to access resources or functionalities on the server that should not be available to the user.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Security Misconfiguration",
+          "description": "Security misconfiguration includes a wide range of issues from poorly configured servers and outdated software libraries to not changing default passwords.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Cross-site Scripting",
+          "description": "Cross-site scripting (XSS) vulnerabilities make it possible for the user to include malicious content to a site that will then be executed on the machine of another user.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Using Components with Known Vulnerabilities",
+          "description": "As software is built upon existing libraries and vulnerabilities are constantly identified and fixed, it is important to keep track and maintain the software libraries in use.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Unvalidated Redirects and Forwards",
+          "description": "Unvalidated Redirects and Forwards may cause the web application to redirect the user to an unwanted location",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Cross-site Request Forgery",
+          "description": "Cross-site Request Forgery (CSRF) makes it possible to create requests from another site (source) to the web application (target).",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Binary Exploit",
+          "description": "Here, we use the term Binary Exploit as an umbrella term to exploit compiled applications in a way that leads the processor to function in an unwanted way.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Fuzzing",
+          "description": "Fuzzing is a technique in which you create randomized inputs and feed them to the target application in order to find crashes. (Knows both blind and smart fuzzing)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "INVEST",
+          "description": "Independent, Negotiable, Valuable, Estimable, Small, Testable",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "SMART",
+          "description": "Specific, Measurable, Achievable, Relevant, Time-boxed",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "DevOps",
+          "description": "Development Operations",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Threat analysis",
+          "description": "The key to understanding how a complex piece of software works is drawing a picture.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Data Flow Diagram",
+          "description": "Data Flow Diagrams are graphical representations of the data flow through the system.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Taint Analysis",
+          "description": "Taint analysis is a form of information flow analysis that is used to track untrusted input through the system (the term originates from perl).",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Data Lifetime",
+          "description": "The lifetime depends on the fact on who allocates the memory for that piece of data and where does it end up.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Termination",
+          "description": "All the data flows have to end somewhere.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Logging",
+          "description": "According to OWASP the log always contains four basic types of information: when, where, who, and what and security events should always be included",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Cryptography",
+          "description": "SHA-256, SHA-3",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Symmetric Cryptography",
+          "description": "Anybody who knows the function and the secret key needed for encrypting messages is also able to decrypt messages.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Cryptoanalysis",
+          "description": "Cryptanalysis is the study of cryptographic algorithms and methods. The basic goal is to break cryptographic algorithms in one way or another.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Public-key cryptography",
+          "description": "In public key cryptography we have a separate key for encryption and another one for decryption.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "RSA",
+          "description": "Public-key cryptosystem",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Certificate",
+          "description": "One important part of the digital signature process",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Public-key infrastructure",
+          "description": "Arrange a hierarchy of authorities",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Cellular security",
+          "description": "Encryption in cellular networks.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Authentication",
+          "description": "Authentication is a cornerstone of cellular security",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Mutual authentication",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Integrity protection",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Identity privacy",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "IoT",
+          "description": "Security of Internet of Things",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20008",
+      "name": "Johdatus tekoälyyn",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Philosophical problems related to AI",
+          "description": "Can express the basic philosophical problems related to AI (the difficulty in defining AI and consciousness, acting vs thinking, Turing test)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Realistic vs unrealistic AI",
+          "description": "Can distinguish between realistic and unrealistic AI in science-fiction",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "\"Good Old Fashioned AI\"",
+          "description": "Can describe the contrast between \"Good Old Fashioned AI\" (GOFAI) and modern AI approaches",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Modern AI",
+          "description": "Can describe the contrast between \"Good Old Fashioned AI\" (GOFAI) and modern AI approaches",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Main stream history of AI",
+          "description": "Knows the main stream developments in the history of AI",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Formulate a problem as a graph",
+          "description": "Can formulate a problem as a graph and apply search algorithms to solve it",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "A*",
+          "description": "Can explain and implement A* search",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Game tree",
+          "description": "Can formulate a simple game (such as tic-tac-toe) as a game tree",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Minimax algorithm",
+          "description": "Can explain and implement the minimax algorithm",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Depth-limited alpha-beta pruning",
+          "description": "Can explain and implement depth-limited alpha-beta pruning",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Heuristic evaluation function",
+          "description": "Can design a reasonable heuristic evaluation function in a game (e.g., chess)",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Expressing uncertain knowledge",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Probabilistic model",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Bayes theorem",
+          "description": "Can apply the Bayes theorem to calculate posterior probabilities given evidence in a simple scenario",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Probability estimation",
+          "description": "Can estimate probability values from a sample",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Beyesian network",
+          "description": "Can represent a problem solving situation as a Bayesian network",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Monte Carlo (approximation)",
+          "description": "Can apply an approximate (Monte Carlo) technique to perform inference in a Bayesian network",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Supervised learning",
+          "description": "Can distinguish between unsupervised and supervised machine learning scenarios",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Unsupervised learning",
+          "description": "Can distinguish between unsupervised and supervised machine learning scenarios",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Naive Beyes",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Nearest neighbour",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Neural network",
+          "description": "Knows the main types of neural networks (feed-forward, recurrent, self-organizing map) and their main principles",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Feed-forward neural network",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Recurrent neural network",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Self-organizing map",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Perceptron algorithm",
+          "description": "Can implement the perceptron algorithm in a simple binary classification problem",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Context-free grammar",
+          "description": "Can generate natural language sentences from a context-free grammar",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "CYK-algorithm",
+          "description": "Can parse a sentence using the Cocke-Younger-Kasami algorithm",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Autonomous robot",
+          "description": "Appreciates the difficulty of implementing an autonomous robot in the real world.  Implements simple functionalities, e.g., following a line on the floor, using a robot with limited sensor capabilities.",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "TKT20013",
+      "name": "TKT Kandidaatin tutkielma",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "Liittyminen tutkijayhteisöön ja tutkijan tai asiantuntijan tapa toimia",
+          "description": "tiede, tutkimus ja julkaiseminen",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tutkimusjulkaisun tiedostava lukeminen",
+          "description": "Osaa lukea tieteellisiä julkaisuja",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Oman tutkielman kirjoittamisen prosessi",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tutkimustiedon haku",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Tieteellisistä esitelmistä, etiikasta, oikeakielisyydestä ja työtavoista yhteisöissä keskustelu",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "Digiloikka",
+      "tags": [],
+      "official": false,
+      "concepts": [
+        {
+          "name": "MOOC",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        },
+        {
+          "name": "Video",
+          "description": "",
+          "tags": [],
+          "official": false,
+          "prerequisites": []
+        }
+      ],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12101",
+      "name": "Design and analysis of algorithms",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13001",
+      "name": "Distributed Systems",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA14002",
+      "name": "Introduction to Big Data Management",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA11002",
+      "name": "Introduction to Machine Learning",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13101",
+      "name": "Networked Systems and Services",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14101",
+      "name": "Software Architecture",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12109",
+      "name": "Algorithms in Molecular Biology",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12106",
+      "name": "Approximation Algorithms",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12114",
+      "name": "Automated Logical Reasoning",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12107",
+      "name": "Combinatoria Optimization",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12102",
+      "name": "String Processing Algorithms",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12108",
+      "name": "Biological Sequence Analysis",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12103",
+      "name": "Data Compression Techniques",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12104",
+      "name": "Randomized Algorithms I",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM12105",
+      "name": "Randomized Algorithms II",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA12001",
+      "name": "Advanced Course in Machine learning",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAST32001",
+      "name": "Computational Statistics I",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA11001",
+      "name": "Introduction to Data Science",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA12002",
+      "name": "Probabilistic Graphical Models",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAST32005",
+      "name": "Spatial Modelling and Bayesian Inference",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAST32004",
+      "name": "Advanced Course in Bayesian Inference",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "MAST32006",
+      "name": "High Dimensional Statistics",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA11006",
+      "name": "Statistical Data Science",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13103",
+      "name": "Cloud and Edge Computing",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13102",
+      "name": "Internet protocols",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13105",
+      "name": "Introduction to Internet of Things",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13106",
+      "name": "Mobile Sensing",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13104",
+      "name": "Scalable Overlay Networks",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13202",
+      "name": "Cryptography in Networking",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13204",
+      "name": "Cyber Security II",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13201",
+      "name": "Mobile Systems Security",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13203",
+      "name": "Software Security",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13301",
+      "name": "Service Ecosystems",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13302",
+      "name": "Services Engineering with Models",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13303",
+      "name": "CINCO Laboratory",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM13401",
+      "name": "Human Computer Interaction",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA15003",
+      "name": "Interactive Data Visualization",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14102",
+      "name": "Methods for Software Engineering Research",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14103",
+      "name": "Software Architecture Project",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14106",
+      "name": "Software Factory Experience",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14104",
+      "name": "Software Product Management",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14105",
+      "name": "Ohjelmistoprojektien johtaminen ja ryhmädynamiikka",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14206",
+      "name": "Game Engine Architecures",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14207",
+      "name": "Game Project Course",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14201",
+      "name": "Ohjelmistojen testaus",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14204",
+      "name": "Compilers",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14205",
+      "name": "Code Generation",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "CSM14203",
+      "name": "Ohjelmointikielten periaatteet",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    },
+    {
+      "code": "DATA14001",
+      "name": "Big Data Frameworks",
+      "tags": [],
+      "official": false,
+      "concepts": [],
+      "prerequisites": []
+    }
+  ]
+}
